@@ -1,5 +1,5 @@
+pip install --upgrade pip
 pandas
-streamlit
 streamlit-option-menu
 plotly.express
 warnings
